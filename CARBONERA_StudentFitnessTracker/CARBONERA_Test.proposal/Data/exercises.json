@@ -1,0 +1,150 @@
+
+[
+  {
+    "Name": "Jumping Jacks",
+    "Phase": "Warm-up",
+    "Category": "Full Body",
+    "TargetMuscles": "Full Body",
+    "GoalTypes": []
+  },
+  {
+    "Name": "Arm Circles",
+    "Phase": "Warm-up",
+    "Category": "Upper Body",
+    "TargetMuscles": "Shoulders, Arms",
+    "GoalTypes": []
+  },
+  {
+    "Name": "High Knees",
+    "Phase": "Warm-up",
+    "Category": "Full Body",
+    "TargetMuscles": "Legs, Core",
+    "GoalTypes": []
+  },
+  {
+    "Name": "Push-ups",
+    "Phase": "Main Exercise",
+    "Category": "Push",
+    "TargetMuscles": "Chest, Triceps, Shoulders",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Dumbbell Shoulder Press",
+    "Phase": "Main Exercise",
+    "Category": "Push",
+    "TargetMuscles": "Shoulders, Triceps",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Dumbbell Bench Press",
+    "Phase": "Main Exercise",
+    "Category": "Push",
+    "TargetMuscles": "Chest, Triceps",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Tricep Dips",
+    "Phase": "Main Exercise",
+    "Category": "Push",
+    "TargetMuscles": "Triceps, Shoulders",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Pull-ups",
+    "Phase": "Main Exercise",
+    "Category": "Pull",
+    "TargetMuscles": "Back, Biceps",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Dumbbell Rows",
+    "Phase": "Main Exercise",
+    "Category": "Pull",
+    "TargetMuscles": "Back, Biceps",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Bicep Curls",
+    "Phase": "Main Exercise",
+    "Category": "Pull",
+    "TargetMuscles": "Biceps",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Superman Exercise",
+    "Phase": "Main Exercise",
+    "Category": "Pull",
+    "TargetMuscles": "Lower Back, Glutes",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Bodyweight Squats",
+    "Phase": "Main Exercise",
+    "Category": "Legs",
+    "TargetMuscles": "Quadriceps, Glutes",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Lunges",
+    "Phase": "Main Exercise",
+    "Category": "Legs",
+    "TargetMuscles": "Quadriceps, Hamstrings, Glutes",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Calf Raises",
+    "Phase": "Main Exercise",
+    "Category": "Legs",
+    "TargetMuscles": "Calves",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Glute Bridges",
+    "Phase": "Main Exercise",
+    "Category": "Legs",
+    "TargetMuscles": "Glutes, Hamstrings",
+    "GoalTypes": ["Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Mountain Climbers",
+    "Phase": "Main Exercise",
+    "Category": "Cardio",
+    "TargetMuscles": "Core, Shoulders, Legs",
+    "GoalTypes": ["Weight Loss"]
+  },
+  {
+    "Name": "Burpees",
+    "Phase": "Main Exercise",
+    "Category": "Cardio",
+    "TargetMuscles": "Full Body",
+    "GoalTypes": ["Weight Loss"]
+  },
+  {
+    "Name": "Plank",
+    "Phase": "Main Exercise",
+    "Category": "Full Body",
+    "TargetMuscles": "Core, Shoulders",
+    "GoalTypes": ["Weight Loss", "Weight Gain", "Muscle Building"]
+  },
+  {
+    "Name": "Walking in Place",
+    "Phase": "Cool-down",
+    "Category": "Full Body",
+    "TargetMuscles": "Legs",
+    "GoalTypes": []
+  },
+  {
+    "Name": "Standing Quad Stretch",
+    "Phase": "Cool-down",
+    "Category": "Legs",
+    "TargetMuscles": "Quadriceps",
+    "GoalTypes": []
+  },
+  {
+    "Name": "Shoulder Stretch",
+    "Phase": "Cool-down",
+    "Category": "Upper Body",
+    "TargetMuscles": "Shoulders",
+    "GoalTypes": []
+  }
+]
