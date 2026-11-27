@@ -1,7 +1,6 @@
 # StudentFitnessTracker
 A C# console-based Student Fitness Tracker application using JSON file handling for data persistence.
 
-(!AI DESCRIPTION!)
 # Student Fitness Tracker
 
 ## Project Overview
